@@ -1,11 +1,14 @@
+:root{
+    --primary: #ffffff;
+
+
+}
 header{
     background-color: rgb(74, 101, 255);
 }
-
-p {
-    color: rgb(75, 75, 223);
-    width: 500px;
-  }
 body{
     background-color: #212426;
+}
+footer{
+    background-color: white;
 }
