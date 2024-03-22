@@ -1,14 +1,21 @@
-:root{
+:root {
     --primary: #ffffff;
 
 
 }
-header{
+
+header {
+    display: flex;
     background-color: rgb(74, 101, 255);
+    margin-left: auto;
+    margin-top: 1em;
+    justify-content: space-between;
 }
-body{
+
+body {
     background-color: #212426;
 }
-footer{
-    background-color: white;
+
+footer {
+    background-color: rgb(74, 101, 255);
 }
