@@ -1,3 +1,9 @@
+* {
+    border: 0;
+    margin: 0;
+    outline: 0;
+}
+
 body {
     background-color: #212425;}
 
@@ -17,7 +23,8 @@ header span a {
     padding: 20px 35px;}
 
 main {
-    min-height: 79vh;}
+    min-height: calc(100vh - 10rem);}
+    
 main h1 {
     color: white;
     padding-bottom: 120px;}
