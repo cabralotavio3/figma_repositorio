@@ -8,6 +8,7 @@ body {
     background-color: #212425;}
 
 header {
+    height: 6.5rem;
     display: flex;
     background-color: rgb(74, 101, 255);
     justify-content: space-between;}
@@ -17,20 +18,20 @@ header button{
      border: #ffffff00;}
 
 header span{
-    font-size: 28px;}
+    font-size: 2rem;}
 
 header span a {
-    padding: 20px 35px;}
+    padding: 3rem;}
 
 main {
     min-height: calc(100vh - 10rem);}
     
 main h1 {
     color: white;
-    padding-bottom: 120px;}
+    padding-bottom: 8rem;}
 
 main span a {
-     padding: 40px 170px;}
+    padding: 12rem;}
 
 
 
@@ -39,3 +40,7 @@ footer {
     justify-content: space-between;
     color: white;
     background-color: rgb(74, 101, 255);}
+
+footer span a{
+    padding-right: 1.2rem;
+}

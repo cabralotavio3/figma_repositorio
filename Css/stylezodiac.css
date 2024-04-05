@@ -19,10 +19,10 @@ header button{
      border: #ffffff00;}
 
 header span{
-    font-size: 28px;}
+    font-size: 2rem;}
 
 header span a {
-    padding: 5rem;}
+    padding: 3rem;}
 
 
 main{
@@ -105,4 +105,7 @@ footer {
     justify-content: space-between;
     color: white;
     background-color: rgb(74, 101, 255);}
+
+footer span a{
+    padding-right: 1.2rem;}
     
